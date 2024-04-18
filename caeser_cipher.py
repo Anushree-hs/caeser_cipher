@@ -44,6 +44,8 @@ caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
 #   encrypt(plain_text=text, shift_amount=shift)
 # elif direction == "decode":
 #   decrypt(cipher_text=text, shift_amount=shift)
+
+# importing logo for fun
 form art import logo
 print(logo)
 
